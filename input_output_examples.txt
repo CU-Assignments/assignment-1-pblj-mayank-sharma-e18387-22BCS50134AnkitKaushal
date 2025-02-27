@@ -1,0 +1,59 @@
+Question 1
+-Input
+Enter a string: Hello World 2024!
+
+-Output
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 1
+
+
+
+Question 2
+-Input
+Enter elements of Matrix 1:
+1 2
+3 4
+Enter elements of Matrix 2:
+5 6
+7 8
+
+-Output
+Addition:
+6 8 
+10 12 
+Subtraction:
+-4 -4 
+-4 -4 
+Multiplication:
+19 22 
+43 50 
+
+
+Question 3
+-Input
+Enter Name: John Doe
+Enter Account Number: 12345
+Enter Initial Balance: 1000
+
+Enter amount to deposit: 500
+
+Enter amount to withdraw: 2000
+
+Enter Teacher Details:
+Name: Mr. Smith
+Age: 40
+Subject: Mathematics
+
+-Output
+Account Holder: John Doe
+Account Number: 12345
+Current Balance: 1000.0
+
+Deposit successful! Current Balance: 1500.0
+
+Error: Insufficient funds. Current Balance: 1500.0
+Account Holder: John Doe
+Account Number: 12345
+Current Balance: 1500.0
